@@ -1,0 +1,15 @@
+7	5	0	1	1	Algebra si geometrie analitica	Scris	5	Num. Prof.
+7	5	1	1	1	Algoritmi si structuri de date I	Scris	6	Num. Prof.
+7	5	2	1	1	Arhitectura calculatoarelor	Scris	5	Num. Prof.
+7	5	3	1	1	Educatie fizica si sport	Activitate	1	Num. Prof.
+7	5	4	1	1	Limba engleza 1	Scris	2	Num. Prof.
+7	5	5	1	1	Logica computationala	Scris	6	Num. Prof.
+7	5	6	1	1	Programare I	Scris	6	Num. Prof.
+7	5	7	1	2	Algoritmi si structuri de date II	Proiect	6	Num. Prof.
+7	5	8	1	2	Calcul diferential si integral	Scris	5	Num. Prof.
+7	5	9	1	2	Educatie fizica si sport	Activitate	1	Num. Prof.
+7	5	10	1	2	Elemente de web design	Scris	4	Num. Prof.
+7	5	11	1	2	Limba engleza 2	Scris	2	Num. Prof.
+7	5	12	1	2	Limbaje formale si teoria automatelor	Scris	5	Num. Prof.
+7	5	13	1	2	Programare II	Scris	6	Num. Prof.
+7	5	14	1	2	Stagiu de practica I	Proiect	2	Num. Prof.

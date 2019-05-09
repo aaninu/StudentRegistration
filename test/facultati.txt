@@ -1,0 +1,11 @@
+0	Facultatea de Arte si Design
+1	Facultatea de Chimie, Biologie, Geografie
+2	Facultatea de Drept
+3	Facultatea de Economie si de Administrare a Afacerilor
+4	Facultatea de Educatie Fizica si Sport
+5	Facultatea de Fizica
+6	Facultatea de Litere, Istorie si Teologie
+7	Facultatea de Matematica si Informatica
+8	Facultatea de Muzica si Teatru
+9	Facultatea de Sociologie si Psihologie
+10	Facultatea de Stiinte Politice, Filosofie si Stiinte ale Comunicarii

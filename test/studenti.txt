@@ -1,0 +1,2 @@
+0	7	5	1	1	Aninu	Alin
+1	7	6	1	1	Ion	Ion

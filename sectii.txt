@@ -1,0 +1,70 @@
+0	0	Arte plastice Arte plastice (Fotografie - videoprocesare computerizata a imaginii)
+0	1	Arte plastice (Pictura, Grafica, Sculptura)
+0	2	Arte decorative
+0	3	Conservare - Restaurare
+0	4	Design
+0	5	Istoria si teoria artei
+0	6	Moda, Design vestimentar
+1	0	Biologie
+1	1	Biochimie
+1	2	Chimie
+1	3	Geografie
+1	4	Geografia turismului 
+1	5	Planificare teritoriala 
+1	6	Stiinta mediului
+2	0	I.F.
+2	1	I.F.R.
+3	0	Contabilitate si Informatica de Gestiune
+3	1	Economia Comertului Turismului si Serviciilor
+3	2	Economie Generala si Comunicare Economica
+3	3	Economie si Afaceri Internationale
+3	4	Finante si Banci
+3	5	Finante si Banci - limba Engleza
+3	6	Informatica Economica
+3	7	Management
+3	8	Management en francais
+3	9	Marketing
+3	10	Rechnungswesen und Wirtschaftsinformatik
+4	0	Educatie fizica ZI
+4	1	Educatie fizica FR
+4	2	Kinetoterapie
+4	3	CG
+5	0	Fizica
+5	1	Fizica informatica
+5	2	Fizica medicala
+6	0	Istorie
+6	1	Limba si Literatura Romana
+6	2	Limba si Literatura Latina
+6	3	Studii Culturale
+6	4	Teologie Ortodoxa
+6	5	Limbi si Literaturi (Discipline Transversale)
+6	6	Limbi Moderne Aplicate (Discipline Transversale)
+7	0	Matematica
+7	1	Matematica - Informatica
+7	2	Matematici aplicate
+7	3	Informatica - cu predare in limba romana
+7	4	Informatica - cu predare in limba engleza
+7	5	Informatica aplicata
+8	0	Specializarea Interpretare Muzicala - Instrumente
+8	1	Specializarea Interpretare Muzicala - Canto
+8	2	Specializarea Muzica
+8	3	Specializarea Artele Spetacolului Actorie - Limba Romana
+8	4	Specializarea Artele Spetacolului Actorie - Limba Germana
+9	0	Asistenta Sociala - ZI
+9	1	Asistenta Sociala - IDD
+9	2	Psihologie
+9	3	Sociologie 
+9	4	Resurse Umane 
+9	5	Pedagogie
+9	6	Pedagogia invatamantului Primar si Prescolar
+9	7	Psihopedagogie Speciala
+10	0	Administratie publica
+10	1	Comunicare si Relatii Publice
+10	2	Filosofie
+10	3	Jurnalism
+10	4	Publicitate
+10	5	Relatii Internationale si Studii Europene
+10	6	Relatii Internationale si Studii Europene in limba germana
+10	7	Stiinte ale Informarii si Documentarii
+10	8	Stiinte Politice
+11	0	Editare Video
